@@ -8,7 +8,7 @@ body{
 
 }
 @media screen and (min-width: 480px) {
-  body {
+  back {
     max-width:600px;
   }
 }
