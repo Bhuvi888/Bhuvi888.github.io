@@ -9,7 +9,8 @@ body{
 }
 @media screen and (min-width: 320px) {
   back {
-    max-width:600px;
+   position:sticky;
+      top:0;
   }
 }
 #back{
